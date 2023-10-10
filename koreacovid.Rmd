@@ -29,7 +29,7 @@ state of a patient must be died or alive - we adjust that as well
 
 
 # Method 
-
+Based on the data we found in kRdata, we will try and find out if theres a difference between men and women. Is there any difference in how covid kills men and women. Is covid more harmful to men? Or is it more harmful to women? This appears to be a category~category problem. Therefore, we will be depoying cat cat helper files to run a test. 
 
 
 ## Graphical results - use ggplot commands to do this  
